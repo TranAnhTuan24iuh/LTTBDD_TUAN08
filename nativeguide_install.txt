@@ -1,0 +1,23 @@
+
+
+
+
+
+install react native navigation:
+
+npm install @react-navigation/native
+npx expo install react-native-screens react-native-safe-area-context
+npm install react-native-screens react-native-safe-area-context
+npm install @react-navigation/native-stack
+
+
+import { NavigationContainer } from '@react-navigation/native';
+import { createNativeStackNavigator } from '@react-navigation/native-stack';
+
+
+
+npm i npx -g
+npx create-expo-app AwesomeProject
+
+cd AwesomeProject
+npx expo start
